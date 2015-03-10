@@ -1,36 +1,15 @@
-# Heading 1
-## Heading 2
-### Heading 3
+# CAL522's SVG Project
+=======================
 
-Underline H1
-============
+## *The Flash*
 
-Underline H2
-------------
+My project is interested in looking at
 
-My mother always told me
-> Look both ways before you cross the street.
+- The DC Superhero, The Flash
+- The Sci-Fi Hero, Flash Gordon
 
-*this text will be italicized*
+It explores varied ways of visualizing the accelerated movement of The Flash through:
 
-**this text will be bold**
-
-**Everyone _must_ attend the meeting today**
-
-This is line 1
-
-This is line 2
-
-- list item
-- list item
-- list item
-
-* list item
-* list item
-* list item
-
-1. item
-2. item
-3. item
-
-[drawing on the web](https://github.com/waxenwings)
+* warping gradient
+* gaussian blur
+* degredation
